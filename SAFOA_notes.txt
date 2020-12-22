@@ -1,0 +1,5 @@
+There are 2 types of keys; GOLD & SILVER
+
+The Silver key uses our asymmetric encryption algorithm. One-layer
+The Gold key doubles up with a symmetric encryption with a passkey provided
+by the owner. Two-layers
